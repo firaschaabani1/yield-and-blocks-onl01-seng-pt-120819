@@ -1,5 +1,5 @@
 def hello_t
-  i = 0
+  i = []
 
 end
 
